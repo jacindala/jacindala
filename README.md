@@ -1,11 +1,13 @@
-👋 Hello, @jacindala here!! 
-📚 I'm currently a student at UCLA and am studying Mathematics of Computation 
-   (with a minor in Statistics)
-🌱 I’m new here and am learning about Git and Github. I have little experience
-   programming in Java, C++, and R from college/university courses.
-💞️ I’m looking to expand my knowledge and gain more experience in the world of 
-   computer science as well as mathematics and related fields!
-📫 I can be reached via email: jiela130@gmail.com
+- 👋 Hello, @jacindala here!! 
+- 📚 I'm currently a student at UCLA and am studying Mathematics of Computation 
+     (with a minor in Statistics)
+- 🌱 I’m new here and am learning about Git and Github. I have little experience
+     programming in Java, C++, and R from college/university courses.
+- ❣️ I’m looking to expand my knowledge and gain more experience in the world of 
+     computer science as well as mathematics and related fields!
+- 📫 Feel free to contact me: 
+     email: jiela130@gmail.com
+     LinkedIn: linkedin.com/in/jacindala
 
 <!---
 jacindala/jacindala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

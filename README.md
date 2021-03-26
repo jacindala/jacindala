@@ -6,8 +6,8 @@
 - ❣️ I’m looking to expand my knowledge and gain more experience in the world of 
      computer science as well as mathematics and related fields!
 - 📫 Feel free to contact me: 
-     email: jiela130@gmail.com
-     LinkedIn: linkedin.com/in/jacindala
+     - Email: jiela130@gmail.com
+     - LinkedIn: linkedin.com/in/jacindala
 
 <!---
 jacindala/jacindala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
